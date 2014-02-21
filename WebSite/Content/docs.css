@@ -1,0 +1,18 @@
+﻿.bg-head {
+    background-color:#330033;
+    border-bottom-color:#330033;
+}
+
+.bg-content {
+    background-image:url(/Images/head.jpg);
+    background-repeat:repeat;
+    background-attachment:scroll;
+    background-position:center;
+    height:600px;
+    background-size:cover;
+    color:#fff;
+    text-align:center;
+}
+
+
+

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{890834CB-A556-4D50-BECC-A7336FC9A095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSite", "WebSite\WebSite.csproj", "{B7D2151E-A25D-4C70-A6B7-138DDCA5BF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{890834CB-A556-4D50-BECC-A7336FC9A095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890834CB-A556-4D50-BECC-A7336FC9A095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890834CB-A556-4D50-BECC-A7336FC9A095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890834CB-A556-4D50-BECC-A7336FC9A095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D2151E-A25D-4C70-A6B7-138DDCA5BF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D2151E-A25D-4C70-A6B7-138DDCA5BF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D2151E-A25D-4C70-A6B7-138DDCA5BF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D2151E-A25D-4C70-A6B7-138DDCA5BF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
